@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://tg/Bobir_Mardonov)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://t.me/Bobir_Mardonov)**
 
 - 📫 How to reach me **mardonovbobir9@gmail.com**
 
