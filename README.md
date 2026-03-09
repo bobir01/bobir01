@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Bobir 👋</h1>
 
 <p align="center">
-  <b>Data Engineer · Builder · CS Student @ CAU Tashkent '25</b><br/>
+  <b>Data Engineer · Builder · CS Graduate @ CAU Tashkent</b><br/>
   Tashkent, Uzbekistan 🇺🇿
 </p>
 
@@ -20,7 +20,7 @@ I'm a 20-year-old builder from Uzbekistan obsessed with data, distributed system
 - 🍊 Co-founded **[Speaklish](https://t.me/speaklish_bot)** — AI-powered IELTS speaking practice (President Tech Award finalist 🏆)
 - ⚡ Love parallelism, pipelines, and things that scale
 - 📡 I write about tech, startups & life on my [Telegram channel](https://t.me/bobirlives)
-- 🎓 CS @ Central Asian University, graduating 2025
+- 🎓 CS Graduate @ Central Asian University
 
 ---
 
