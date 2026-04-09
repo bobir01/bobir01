@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm a 20-year-old builder from Uzbekistan obsessed with data, distributed systems, and making things that actually work.
+I'm a builder from Uzbekistan obsessed with data, distributed systems, and making things that actually work.
 
 - 🔭 Currently building **[humaid.co](https://humaid.co)** — my latest full-time project
 - 🍊 Co-founded **[Speaklish](https://t.me/speaklish_bot)** — AI-powered IELTS speaking practice (President Tech Award finalist 🏆)
